@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BlockCrowd.js">
+    <Files>
+      <File FileName="Assets/BlockCrowd.js" Line="27" Column="16" />
+      <File FileName="Assets/CameraSwitching.js" Line="1" Column="1" />
+      <File FileName="Assets/PersonMove.js" Line="1" Column="1" />
+      <File FileName="Assets/CameraFollow.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
